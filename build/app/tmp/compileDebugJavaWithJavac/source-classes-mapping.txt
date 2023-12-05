@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/nova_sell_download/BuildConfig.java
+ com.example.nova_sell_download.BuildConfig
